@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Aug 03 15:50:20 BST 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0182-642f-a4bf-000006f7cb18 
+on database directory G:\2021-CI553-catshop\2021-CI553-catshop\catshop.db with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@7aec35a 
+Loaded from file:/G:/2021-CI553-catshop/2021-CI553-catshop/lib/db-derby-10.14.2.0-lib/lib/derby.jar
+java.vendor=Microsoft
+java.runtime.version=11.0.12+7
+user.dir=G:\2021-CI553-catshop\2021-CI553-catshop
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
